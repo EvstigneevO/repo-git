@@ -1,2 +1,5 @@
 add branch-2-1.txt file motherfucker
+<<<<<<< HEAD
 edit wirh kraken
+=======
+>>>>>>> 55261cc (Create branch-2-1.txt)
